@@ -112,8 +112,7 @@ App Name                   | Describe                  | Major Language         
 ### V  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Vineyard](https://github.com/hitherejoe/Vineyard) | [Vine client for Android TV](https://medium.com/exploring-android/vineyard-creating-an-android-tv-vine-app-e1480708b0a3#.q4hrfrsnu) | Java |   
-[VLC](https://github.com/videolan/vlc-android)  | [VLC Player for Android] (https://videolan.org/vlc/) | Java  | 
+[Vineyard](https://github.com/hitherejoe/Vineyard) | [Vine client for Android TV](https://medium.com/exploring-android/vineyard-creating-an-android-tv-vine-app-e1480708b0a3#.q4hrfrsnu) | Java |    
 
 ### W  
 App Name                   | Describe                  | Major Language             | Download 
